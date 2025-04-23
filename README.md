@@ -94,9 +94,10 @@ print("my webserver is running...")
 httpd.serve_forever()```
 
 ## OUTPUT:
-![WhatsApp Image 2025-04-23 at 14 36 13_841879fe](https://github.com/user-attachments/assets/adb4436c-e33e-4152-bf86-fa0d68c16078)
 
-![WhatsApp Image 2025-04-23 at 14 43 28_7409b2c9](https://github.com/user-attachments/assets/c4dd6634-7054-4b06-9794-0bbbc1579476)
+![WhatsApp Image 2025-04-23 at 14 36 13_841879fe](https://github.com/user-attachments/assets/1f98c3df-21f5-49ef-9218-15614a22c976)
+
+![WhatsApp Image 2025-04-23 at 14 43 28_7409b2c9](https://github.com/user-attachments/assets/f7a189df-a5da-4ea4-84bb-36c786acac72)
 
 
 ## RESULT:
