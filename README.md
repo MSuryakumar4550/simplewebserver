@@ -95,9 +95,11 @@ httpd.serve_forever()```
 
 ## OUTPUT:
 
-![WhatsApp Image 2025-04-23 at 14 36 13_841879fe](https://github.com/user-attachments/assets/1f98c3df-21f5-49ef-9218-15614a22c976)
+![image](https://github.com/user-attachments/assets/77532d58-2c7d-4827-9a42-45409fb0463e)
 
-![WhatsApp Image 2025-04-23 at 14 43 28_7409b2c9](https://github.com/user-attachments/assets/f7a189df-a5da-4ea4-84bb-36c786acac72)
+
+![image](https://github.com/user-attachments/assets/fb09777b-8b15-4ff7-9d35-1a5984d44437)
+
 
 
 ## RESULT:
